@@ -20,7 +20,7 @@ This project demonstrates a complete, automated, and scalable ELT (Extract, Load
 ## Architecture
 The pipeline follows modern cloud best practices, landing raw data in a storage layer before processing it into the data warehouse.
 
-![Data Pipeline Architecture](https://i.imgur.com/K1j11aK.png)
+![Data Pipeline Architecture](https://i.imgur.com/K1j11aK.png) --> placeholder screenshot
 
 ---
 ## Tech Stack
@@ -53,7 +53,7 @@ The final analytical models provide crucial insights into product performance an
 ## Dashboard Preview
 The Looker Studio dashboard connects directly to the `saas_analytics` tables in BigQuery, providing an interactive and always-up-to-date view of the business metrics.
 
-*(placeholder for a screenshot of your finished Looker Studio dashboard)*
+*(placeholder for a screenshot of finished Looker Studio dashboard)*
 
 ---
 ## Setup & Deployment
